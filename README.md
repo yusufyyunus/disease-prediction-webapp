@@ -1,4 +1,4 @@
-# Health Assessment Web Application 🩺💻
+# Disease Prediction Web App 🩺💻
 
 ## 📂 Project Structure
 
@@ -66,10 +66,6 @@
 brew install mailhog
 brew services start mailhog
 ```
-
-Hopefullt this tutorial is helpful: https://www.youtube.com/watch?v=IWJKRmFLn-g
-
-## 🌐 Accessing the Application
 
 - **Web App**: `http://localhost:5500`
 - **Backend API**: `http://localhost:8000`
