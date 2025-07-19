@@ -7,5 +7,4 @@ pandas
 joblib
 numpy
 python-dotenv
-email
 pydantic
